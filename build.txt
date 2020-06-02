@@ -1,0 +1,3 @@
+author = awsome
+version = 0.1
+displayName = TruePower
